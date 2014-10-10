@@ -1,0 +1,57 @@
+# Dependencies
+markdown:	kramdown
+highlighter:	pygments
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Agrilibre
+tagline:	'blog'
+description:	'Agrilibre'
+url:		http://agrilibre.org
+commentsystem:	google
+disqus:		example
+
+author:
+  name:		'Ian Camporez Brunelli'
+  url:		https://google.com/+IanCamporezBrunelli
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/agrilibre
+    desc:	Follow me
+
+  - icon:	github
+    url:	https://github.com/agrilibre
+    desc:	Fork me
+
+  - icon:	googleplus-alt
+    url:	https://google.com/+Agrilibre
+    desc:	Add me
+
+  - icon:	feed
+    url:	http://agrilibre.org/atom.xml
+    desc:	Read me
+    
+menu:
+  - title:	Accueil
+    url:	/
+    
+  - title:	À propos
+    url:	/about
+    
+copyright:
+  author:	Camporez
+  url:		http://camporez.com
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
+
+# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
+google_analytics:
