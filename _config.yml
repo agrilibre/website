@@ -19,7 +19,7 @@ author:
 
 paginate:	5
 
-gem:
+gems:
   - jekyll-paginate
 
 # Custom vars
