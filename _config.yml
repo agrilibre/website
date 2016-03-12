@@ -19,6 +19,9 @@ author:
 
 paginate:	5
 
+gem:
+  - jekyll-paginate
+
 # Custom vars
 icon:		/assets/images/icon.png
 cover:		/assets/images/cover.jpg
