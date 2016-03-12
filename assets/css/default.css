@@ -98,6 +98,21 @@ img {
 	margin-bottom: -10px;
 }
 
+.logo, .mini-logo {
+  text-align: center;
+  display: block;
+}
+
+.logo img {
+  max-width: 40%;
+  margin: 100px 0;
+}
+
+.mini-logo img {
+  max-width: 20%;
+  margin: 30px 0;
+}
+
 #home-title {
 	left: 50%;
 	top: 50%;
